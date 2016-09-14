@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-hidemenu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for hyperterm that hides the menu bar",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,14 @@
     "hide",
     "menu"
   ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomru/hyperterm-hidemenu.git"
+  },
   "author": "Thomas Ruoff <tomru@mail.id0.link>",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/tomru/hyperterm-hidemenu/issues"
+  },
+  "homepage": "https://github.com/tomru/hyperterm-hidemenu#readme"
 }
